@@ -62,7 +62,7 @@ export default function Index() {
 <nav className="flex items-center justify-between p-4 w-full">
   <Link to="/" className="flex items-center space-x-2">
     <img src="https://pixura.imgix.net/https%3A%2F%2Fstorage.googleapis.com%2Fsr_prod_artworks_bucket%2F0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0%252F42778%252F9he3k?ixlib=js-3.8.0&w=550&h=550&fit=crop&q=75&auto=format%2Ccompress&s=30bb92f09a9288125effe645bbef80da" alt="Logo" className="h-20 w-20 mr-2"/> {/* Logo Image */}
-    <h1 className="text-3xl md:text-4xl font-bold tracking-tighter font-extrabold bg-gradient-to-r from-orange-300 via-orange-100 to-orange-50 text-transparent bg-clip-text bg-300% animate-gradient">$Psyops</h1>
+    <h1 className="text-3xl md:text-4xl font-bold tracking-tighter font-extrabold bg-gradient-to-r from-orange-300 via-orange-100 to-orange-50 text-transparent bg-clip-text bg-300% animate-gradient">$Psyopss</h1>
   </Link>
   <ThemeToggle />
 </nav>
@@ -112,7 +112,7 @@ export default function Index() {
 
           <div className="flex items-center justify-center  w-full ">
         <div className="flex flex-col items-center space-y-4 text-center p-4 md:w-1/2">
-        <TextGenerateEffect words={"my name is dev"} />
+        <TextGenerateEffect words={"human you have been Lied to, Influenced by them, misled by their propaganda, They control your every move, Psyopss Psyopss Psyopss Psyopss "} />
      
         </div>
 
@@ -124,7 +124,7 @@ export default function Index() {
           <h1 className="text-3xl md:text-4xl font-bold tracking-tighter">
             The{" "}
             <span className="font-extrabold bg-gradient-to-r from-orange-300 via-orange-200 to-orange-50 text-transparent bg-clip-text bg-300% animate-gradient">
-            $Psyops
+            $Psyopss
             </span>{" "}
             Token PreSale is now live on{" "}
             <Link
