@@ -144,7 +144,7 @@ export default function Index() {
         <div className="absolute inset-0 bg-gradient-to-r from-orange-200 to-orange-300 rounded-lg" />
         <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
         <Link to="https://twitter.com/pinkfootsol">
-          Twitter/𝕏
+        Psyopss 𝕏
         </Link>
         </div>
       </button>
@@ -167,8 +167,8 @@ export default function Index() {
     <button className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-orange-200 to-orange-300 rounded-lg" />
         <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
-        <Link to="https://twitter.com/pinkfootsol">
-          Telegram Community
+        <Link to="https://t.me/Psyopsscommunity">
+        Psyopss Telegram
         </Link>
         </div>
       </button>
