@@ -155,7 +155,7 @@ export default function Index() {
     <button className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-emerald-300 rounded-lg" />
         <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
-        <Link to="https://pump.fun/board">
+        <Link to="https://pump.fun/2KXVknitex3HXg3vZ9DLUihnwshc9za81ZwGKxCft5mN">
           Pump.Fun
         </Link>
         </div>
