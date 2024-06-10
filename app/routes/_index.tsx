@@ -128,7 +128,7 @@ export default function Index() {
             </span>{" "}
             Token PreSale is now live on{" "}
             <Link
-              to="https://pump.fun/B4Yy7RbQeYmdXRbJcGn1PHUEuF5A1Du7JxyPaY9bpump"
+              to="https://pump.fun/board"
               className="font-extrabold bg-gradient-to-r from-emerald-100 via-emerald-500 to-emerald-50 text-transparent bg-clip-text bg-300% animate-gradient hover:text-emerald-500"
             >
               Pump.fun
