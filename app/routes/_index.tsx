@@ -128,10 +128,10 @@ export default function Index() {
             </span>{" "}
             Token PreSale is now live on{" "}
             <Link
-              to="https://pump.fun/board"
+              to="https://dexscreener.com/moonshot"
               className="font-extrabold bg-gradient-to-r from-emerald-100 via-emerald-500 to-emerald-50 text-transparent bg-clip-text bg-300% animate-gradient hover:text-emerald-500"
             >
-              Pump.fun
+              Moonshot🟢🌙
             </Link>
           </h1>
 
@@ -155,8 +155,8 @@ export default function Index() {
     <button className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 to-emerald-300 rounded-lg" />
         <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
-        <Link to="https://pump.fun/board">
-          Pump.Fun
+        <Link to="https://dexscreener.com/moonshot">
+        Moonshot🟢🌙
         </Link>
         </div>
       </button>
